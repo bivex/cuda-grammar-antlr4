@@ -16,4 +16,4 @@ javac -cp antlr-4.13.1-complete.jar *.java
 
 # Run the Main test class
 echo "Running the test..."
-java -cp .:antlr-4.13.1-complete.jar Main
+java -cp .:antlr-4.13.1-complete.jar Main "$@"

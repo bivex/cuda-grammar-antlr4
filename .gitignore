@@ -1,0 +1,9 @@
+*.class
+*.tokens
+antlr-*.jar
+CUDALexer.java
+CUDAParser.java
+CUDAParserListener.java
+CUDAParserBaseListener.java
+CUDALexer.interp
+CUDAParser.interp
